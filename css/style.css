@@ -619,10 +619,10 @@ h3 {
 /* Extra Small Devices, Phones */
 @media screen and (max-width : 480px) {
 	.menu-carousel .carousel-caption .btn-red{
-		padding: 10px 15px;
+		padding: 10px 12px;
 		border-radius: 3px;
 		color: #fff;
-		font-size: 16px;
+		font-size: 14px;
 	}
     .main-menu .navbar-toggle.collapsed + .navbar-brand img{
         max-height: 80px;
