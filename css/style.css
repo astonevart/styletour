@@ -602,16 +602,6 @@ h3 {
 		right: 0;
 		background: transparent;
 	}
-    #menu.normal {
-        width: 100%;
-    }
-    #menu.fix {
-        position:fixed;
-        top:0; left:0;
-        width:100%;
-    }
-
-
 }
 
 @media screen and (max-width : 540px) {
