@@ -620,7 +620,7 @@ h3 {
 @media screen and (max-width : 480px) {
 	.menu-carousel .carousel-caption .btn-red{
 		padding: 10px 12px;
-		border-radius: 3px;
+		border-radius: 2px;
 		color: #fff;
 		font-size: 14px;
 	}
