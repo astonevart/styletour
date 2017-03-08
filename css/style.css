@@ -40,6 +40,7 @@ h3 {
 	color: #fff;
 	border-radius: 3px;
 	padding: 6px 20px 6px 20px;
+    background: #d51e08;
 }
 .menu-top .navbar-nav > li > a.btn-red:hover {
 	background: #ec4835;
@@ -300,7 +301,8 @@ h3 {
     font-size: 28px;
     font-weight: bold;
 }
-.sidebar .banner a.btn-red{
+.sidebar .banner a.btn-red
+{
     padding: 5px 30px;
     display: inline-block;
     font-size: 18px;
@@ -309,6 +311,8 @@ h3 {
     text-transform: uppercase;
     border-radius: 3px;
     transition: all .5s;
+    color: #fff;
+    text-decoration: none;
 }
 .sidebar .banner a.btn-red:hover{
     color: #fff;
